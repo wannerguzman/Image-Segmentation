@@ -71,6 +71,8 @@ region 4 size= 3371 color=java.awt.Color[r=197,g=159,b=143]
 region 5 size= 2976 color=java.awt.Color[r=123,g=156,b=180]
 - Saved result to bird_seg_5.png
 ```
+![Screenshot](Segmentation/bird_seg_5.png)
+
 2. Segment into 10 regions
 
 ```
@@ -87,3 +89,4 @@ region 9 size= 2007 color=java.awt.Color[r=204,g=124,b=105]
 region 10 size= 1364 color=java.awt.Color[r=188,g=210,b=198]
 - Saved result to bird_seg_10.png
 ```
+![Screenshot](Segmentation/bird_seg_10.png)
