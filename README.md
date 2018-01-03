@@ -58,7 +58,7 @@ path of the image you wish to perform segmentation on.
 ```
 # Example Run
 ## original image
-![Screenshot](Segmentation/bird.JPG)
+![Screenshot](Segmentation/bird.jpg)
 
 1. Segment into 5 regions
 
